@@ -32,11 +32,17 @@ Tested on the live link: phone (390px wide) and laptop (1280px wide).
 
 ## Screenshots
 
-1. All three cards in one thread: [docs/screenshot.png](docs/screenshot.png)
-2. Thinking animation, with the input greyed out and three dots in the reply bubble: [docs/thinking.png](docs/thinking.png)
-3. Filler line, with the food card's booking note emptied and showing "Not listed yet": [docs/filler.png](docs/filler.png)
+**1. Thread with all three cards** (stay, Experience, food, in that order)
 
-![All three cards](docs/screenshot.png)
+![Thread with the stay, Experience and food cards](docs/screenshot.png)
+
+**2. Thinking state:** input greyed out ("Planning your weekend…") and three pulsing dots in the reply bubble
+
+![Thinking state with locked input and pulsing dots](docs/thinking.png)
+
+**3. Filler line:** the food card with its booking note emptied shows "Not listed yet"
+
+![Food card showing the filler line Not listed yet](docs/filler.png)
 
 ## What's inside
 
