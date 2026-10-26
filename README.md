@@ -4,7 +4,9 @@ A happy-path prototype of the Kyoto trip-planner chat. Send any message: the inp
 
 ![Chat thread showing the stay, Experience and food cards](docs/screenshot.png)
 
-**Run it:** `npm install && npm run dev`, then open http://localhost:3000
+## How to run
+
+Run `npm install && npm run dev`, then open http://localhost:3000
 
 ## What's inside
 
