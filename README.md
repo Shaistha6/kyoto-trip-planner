@@ -2,11 +2,23 @@
 
 A happy-path prototype of the Kyoto trip-planner chat. Send any message: the input locks, pulsing dots play for about 2 seconds, then the chat shows a stay, an Experience and a food card, in that order.
 
-![Chat thread showing the stay, Experience and food cards](docs/screenshot.png)
-
 ## How to run
 
 Run `npm install && npm run dev`, then open http://localhost:3000
+
+## Screenshots
+
+**1. The thread with all three cards** (stay, Experience, food, in that order)
+
+![Chat thread showing the stay, Experience and food cards](docs/screenshot.png)
+
+**2. Thinking animation:** after Send, the input greys out ("Planning your weekend…") and three pulsing dots show in the reply bubble for about 2 seconds.
+
+![Input locked and pulsing dots in the reply bubble](docs/thinking.png)
+
+**3. Filler line:** with the food card's `bookingNote` emptied in the mock data, the card shows "Not listed yet" in that spot, not a blank or "undefined".
+
+![Food card showing the filler line Not listed yet](docs/filler.png)
 
 ## What's inside
 
