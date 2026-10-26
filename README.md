@@ -27,7 +27,7 @@ Tested on the live link: phone (390px wide) and laptop (1280px wide).
 | Card | Image spot | Biggest text | Accent colour |
 |---|---|---|---|
 | Stay (`components/StayCard.tsx`) | Full-width grey banner on top | Travel dates: "11–13 Apr 2025 · 2 nights" | Coral top border |
-| Experience (`components/ExperienceCard.tsx`) | Tall grey strip on the left | Title: "Tea ceremony in a 100-year-old machiya" | Purple "SAT" day label |
+| Experience (`components/ExperienceCard.tsx`) | Tall grey strip on the left | Title: "Tea ceremony in a 100-year-old machiya" | Purple FRI / SAT / SUN labels on a day-by-day plan |
 | Food (`components/FoodCard.tsx`) | Small round grey thumbnail, top right | Place name: "Menya Inoichi" | Amber "Dinner · $" label |
 
 ## Screenshots
